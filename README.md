@@ -2,7 +2,7 @@
 
 This is a repo for scaled models of the Wikihouse WREN chassis. These are ideal for creating demo models, education, or practicing a build.
 
-![scaled models](all\ scales\ microhouse.jpg)
+![scaled models](all-scales-microhouse.jpg)
 
 | Scale     | Material      | Thickness     | Tool          | Approx size   |
 |-----------|---------------|---------------|---------------|---------------|
